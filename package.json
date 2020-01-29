@@ -1,0 +1,20 @@
+{
+  "name": "innovationweek_script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "p5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "http-server ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BertramDHooge/innovationweek_script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BertramDHooge/innovationweek_script/issues"
+  },
+  "homepage": "https://github.com/BertramDHooge/innovationweek_script#readme"
+}
