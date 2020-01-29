@@ -1,0 +1,3830 @@
+[
+ {
+   "Code": "1000",
+   "Commune": "ROYAUME",
+   "Gemeente": "HET RIJK",
+   "Taal": ""
+ },
+ {
+   "Code": "4000",
+   "Commune": "R�GION DE BRUXELLES-CAPITALE",
+   "Gemeente": "BRUSSELS HOOFDSTEDELIJK GEWEST",
+   "Taal": ""
+ },
+ {
+   "Code": "21000",
+   "Commune": "Arrondissement de Bruxelles-Capitale",
+   "Gemeente": "Arrondissement Brussel Hoofdstad",
+   "Taal": ""
+ },
+ {
+   "Code": "21001",
+   "Commune": "Anderlecht",
+   "Gemeente": "Anderlecht",
+   "Taal": "NF"
+ },
+ {
+   "Code": "21002",
+   "Commune": "Auderghem",
+   "Gemeente": "Oudergem",
+   "Taal": "NF"
+ },
+ {
+   "Code": "21003",
+   "Commune": "Berchem-Sainte-Agathe",
+   "Gemeente": "Sint-Agatha-Berchem",
+   "Taal": "NF"
+ },
+ {
+   "Code": "21004",
+   "Commune": "Bruxelles",
+   "Gemeente": "Brussel",
+   "Taal": "NF"
+ },
+ {
+   "Code": "21005",
+   "Commune": "Etterbeek",
+   "Gemeente": "Etterbeek",
+   "Taal": "NF"
+ },
+ {
+   "Code": "21006",
+   "Commune": "Evere",
+   "Gemeente": "Evere",
+   "Taal": "NF"
+ },
+ {
+   "Code": "21007",
+   "Commune": "Forest",
+   "Gemeente": "Vorst",
+   "Taal": "NF"
+ },
+ {
+   "Code": "21008",
+   "Commune": "Ganshoren",
+   "Gemeente": "Ganshoren",
+   "Taal": "NF"
+ },
+ {
+   "Code": "21009",
+   "Commune": "Ixelles",
+   "Gemeente": "Elsene",
+   "Taal": "NF"
+ },
+ {
+   "Code": "21010",
+   "Commune": "Jette",
+   "Gemeente": "Jette",
+   "Taal": "NF"
+ },
+ {
+   "Code": "21011",
+   "Commune": "Koekelberg",
+   "Gemeente": "Koekelberg",
+   "Taal": "NF"
+ },
+ {
+   "Code": "21012",
+   "Commune": "Molenbeek-Saint-Jean",
+   "Gemeente": "Sint-Jans-Molenbeek",
+   "Taal": "NF"
+ },
+ {
+   "Code": "21013",
+   "Commune": "Saint-Gilles",
+   "Gemeente": "Sint-Gillis",
+   "Taal": "NF"
+ },
+ {
+   "Code": "21014",
+   "Commune": "Saint-Josse-ten-Noode",
+   "Gemeente": "Sint-Joost-ten-Node",
+   "Taal": "NF"
+ },
+ {
+   "Code": "21015",
+   "Commune": "Schaerbeek",
+   "Gemeente": "Schaarbeek",
+   "Taal": "NF"
+ },
+ {
+   "Code": "21016",
+   "Commune": "Uccle",
+   "Gemeente": "Ukkel",
+   "Taal": "NF"
+ },
+ {
+   "Code": "21017",
+   "Commune": "Watermael-Boitsfort",
+   "Gemeente": "Watermaal-Bosvoorde",
+   "Taal": "NF"
+ },
+ {
+   "Code": "21018",
+   "Commune": "Woluwe-Saint-Lambert",
+   "Gemeente": "Sint-Lambrechts-Woluwe",
+   "Taal": "NF"
+ },
+ {
+   "Code": "21019",
+   "Commune": "Woluwe-Saint-Pierre",
+   "Gemeente": "Sint-Pieters-Woluwe",
+   "Taal": "NF"
+ },
+ {
+   "Code": "2000",
+   "Commune": "R�GION FLAMANDE",
+   "Gemeente": "VLAAMS GEWEST",
+   "Taal": ""
+ },
+ {
+   "Code": "10000",
+   "Commune": "Province d'Anvers",
+   "Gemeente": "Provincie Antwerpen",
+   "Taal": ""
+ },
+ {
+   "Code": "11000",
+   "Commune": "Arrondissement d'Anvers",
+   "Gemeente": "Arrondissement Antwerpen",
+   "Taal": ""
+ },
+ {
+   "Code": "11001",
+   "Commune": "Aartselaar",
+   "Gemeente": "Aartselaar",
+   "Taal": "N"
+ },
+ {
+   "Code": "11002",
+   "Commune": "Anvers",
+   "Gemeente": "Antwerpen",
+   "Taal": "N"
+ },
+ {
+   "Code": "11004",
+   "Commune": "Boechout",
+   "Gemeente": "Boechout",
+   "Taal": "N"
+ },
+ {
+   "Code": "11005",
+   "Commune": "Boom",
+   "Gemeente": "Boom",
+   "Taal": "N"
+ },
+ {
+   "Code": "11007",
+   "Commune": "Borsbeek",
+   "Gemeente": "Borsbeek",
+   "Taal": "N"
+ },
+ {
+   "Code": "11008",
+   "Commune": "Brasschaat",
+   "Gemeente": "Brasschaat",
+   "Taal": "N"
+ },
+ {
+   "Code": "11009",
+   "Commune": "Brecht",
+   "Gemeente": "Brecht",
+   "Taal": "N"
+ },
+ {
+   "Code": "11013",
+   "Commune": "Edegem",
+   "Gemeente": "Edegem",
+   "Taal": "N"
+ },
+ {
+   "Code": "11016",
+   "Commune": "Essen",
+   "Gemeente": "Essen",
+   "Taal": "N"
+ },
+ {
+   "Code": "11018",
+   "Commune": "Hemiksem",
+   "Gemeente": "Hemiksem",
+   "Taal": "N"
+ },
+ {
+   "Code": "11021",
+   "Commune": "Hove",
+   "Gemeente": "Hove",
+   "Taal": "N"
+ },
+ {
+   "Code": "11022",
+   "Commune": "Kalmthout",
+   "Gemeente": "Kalmthout",
+   "Taal": "N"
+ },
+ {
+   "Code": "11023",
+   "Commune": "Kapellen",
+   "Gemeente": "Kapellen",
+   "Taal": "N"
+ },
+ {
+   "Code": "11024",
+   "Commune": "Kontich",
+   "Gemeente": "Kontich",
+   "Taal": "N"
+ },
+ {
+   "Code": "11025",
+   "Commune": "Lint",
+   "Gemeente": "Lint",
+   "Taal": "N"
+ },
+ {
+   "Code": "11057",
+   "Commune": "Malle",
+   "Gemeente": "Malle",
+   "Taal": "N"
+ },
+ {
+   "Code": "11029",
+   "Commune": "Mortsel",
+   "Gemeente": "Mortsel",
+   "Taal": "N"
+ },
+ {
+   "Code": "11030",
+   "Commune": "Niel",
+   "Gemeente": "Niel",
+   "Taal": "N"
+ },
+ {
+   "Code": "11035",
+   "Commune": "Ranst",
+   "Gemeente": "Ranst",
+   "Taal": "N"
+ },
+ {
+   "Code": "11037",
+   "Commune": "Rumst",
+   "Gemeente": "Rumst",
+   "Taal": "N"
+ },
+ {
+   "Code": "11038",
+   "Commune": "Schelle",
+   "Gemeente": "Schelle",
+   "Taal": "N"
+ },
+ {
+   "Code": "11039",
+   "Commune": "Schilde",
+   "Gemeente": "Schilde",
+   "Taal": "N"
+ },
+ {
+   "Code": "11040",
+   "Commune": "Schoten",
+   "Gemeente": "Schoten",
+   "Taal": "N"
+ },
+ {
+   "Code": "11044",
+   "Commune": "Stabroek",
+   "Gemeente": "Stabroek",
+   "Taal": "N"
+ },
+ {
+   "Code": "11050",
+   "Commune": "Wijnegem",
+   "Gemeente": "Wijnegem",
+   "Taal": "N"
+ },
+ {
+   "Code": "11052",
+   "Commune": "Wommelgem",
+   "Gemeente": "Wommelgem",
+   "Taal": "N"
+ },
+ {
+   "Code": "11053",
+   "Commune": "Wuustwezel",
+   "Gemeente": "Wuustwezel",
+   "Taal": "N"
+ },
+ {
+   "Code": "11054",
+   "Commune": "Zandhoven",
+   "Gemeente": "Zandhoven",
+   "Taal": "N"
+ },
+ {
+   "Code": "11055",
+   "Commune": "Zoersel",
+   "Gemeente": "Zoersel",
+   "Taal": "N"
+ },
+ {
+   "Code": "11056",
+   "Commune": "Zwijndrecht",
+   "Gemeente": "Zwijndrecht",
+   "Taal": "N"
+ },
+ {
+   "Code": "12000",
+   "Commune": "Arrondissement de Malines",
+   "Gemeente": "Arrondissement Mechelen",
+   "Taal": ""
+ },
+ {
+   "Code": "12002",
+   "Commune": "Berlaar",
+   "Gemeente": "Berlaar",
+   "Taal": "N"
+ },
+ {
+   "Code": "12005",
+   "Commune": "Bonheiden",
+   "Gemeente": "Bonheiden",
+   "Taal": "N"
+ },
+ {
+   "Code": "12007",
+   "Commune": "Bornem",
+   "Gemeente": "Bornem",
+   "Taal": "N"
+ },
+ {
+   "Code": "12009",
+   "Commune": "Duffel",
+   "Gemeente": "Duffel",
+   "Taal": "N"
+ },
+ {
+   "Code": "12014",
+   "Commune": "Heist-op-den-Berg",
+   "Gemeente": "Heist-op-den-Berg",
+   "Taal": "N"
+ },
+ {
+   "Code": "12021",
+   "Commune": "Lierre",
+   "Gemeente": "Lier",
+   "Taal": "N"
+ },
+ {
+   "Code": "12025",
+   "Commune": "Malines",
+   "Gemeente": "Mechelen",
+   "Taal": "N"
+ },
+ {
+   "Code": "12026",
+   "Commune": "Nijlen",
+   "Gemeente": "Nijlen",
+   "Taal": "N"
+ },
+ {
+   "Code": "12029",
+   "Commune": "Putte",
+   "Gemeente": "Putte",
+   "Taal": "N"
+ },
+ {
+   "Code": "12041",
+   "Commune": "Puurs-Sint-Amands",
+   "Gemeente": "Puurs-Sint-Amands",
+   "Taal": "N"
+ },
+ {
+   "Code": "12035",
+   "Commune": "Sint-Katelijne-Waver",
+   "Gemeente": "Sint-Katelijne-Waver",
+   "Taal": "N"
+ },
+ {
+   "Code": "12040",
+   "Commune": "Willebroek",
+   "Gemeente": "Willebroek",
+   "Taal": "N"
+ },
+ {
+   "Code": "13000",
+   "Commune": "Arrondissement de Turnhout",
+   "Gemeente": "Arrondissement Turnhout",
+   "Taal": ""
+ },
+ {
+   "Code": "13001",
+   "Commune": "Arendonk",
+   "Gemeente": "Arendonk",
+   "Taal": "N"
+ },
+ {
+   "Code": "13002",
+   "Commune": "Baerle-Duc",
+   "Gemeente": "Baarle-Hertog",
+   "Taal": "N"
+ },
+ {
+   "Code": "13003",
+   "Commune": "Balen",
+   "Gemeente": "Balen",
+   "Taal": "N"
+ },
+ {
+   "Code": "13004",
+   "Commune": "Beerse",
+   "Gemeente": "Beerse",
+   "Taal": "N"
+ },
+ {
+   "Code": "13006",
+   "Commune": "Dessel",
+   "Gemeente": "Dessel",
+   "Taal": "N"
+ },
+ {
+   "Code": "13008",
+   "Commune": "Geel",
+   "Gemeente": "Geel",
+   "Taal": "N"
+ },
+ {
+   "Code": "13010",
+   "Commune": "Grobbendonk",
+   "Gemeente": "Grobbendonk",
+   "Taal": "N"
+ },
+ {
+   "Code": "13011",
+   "Commune": "Herentals",
+   "Gemeente": "Herentals",
+   "Taal": "N"
+ },
+ {
+   "Code": "13012",
+   "Commune": "Herenthout",
+   "Gemeente": "Herenthout",
+   "Taal": "N"
+ },
+ {
+   "Code": "13013",
+   "Commune": "Herselt",
+   "Gemeente": "Herselt",
+   "Taal": "N"
+ },
+ {
+   "Code": "13014",
+   "Commune": "Hoogstraten",
+   "Gemeente": "Hoogstraten",
+   "Taal": "N"
+ },
+ {
+   "Code": "13016",
+   "Commune": "Hulshout",
+   "Gemeente": "Hulshout",
+   "Taal": "N"
+ },
+ {
+   "Code": "13017",
+   "Commune": "Kasterlee",
+   "Gemeente": "Kasterlee",
+   "Taal": "N"
+ },
+ {
+   "Code": "13053",
+   "Commune": "Laakdal",
+   "Gemeente": "Laakdal",
+   "Taal": "N"
+ },
+ {
+   "Code": "13019",
+   "Commune": "Lille",
+   "Gemeente": "Lille",
+   "Taal": "N"
+ },
+ {
+   "Code": "13021",
+   "Commune": "Meerhout",
+   "Gemeente": "Meerhout",
+   "Taal": "N"
+ },
+ {
+   "Code": "13023",
+   "Commune": "Merksplas",
+   "Gemeente": "Merksplas",
+   "Taal": "N"
+ },
+ {
+   "Code": "13025",
+   "Commune": "Mol",
+   "Gemeente": "Mol",
+   "Taal": "N"
+ },
+ {
+   "Code": "13029",
+   "Commune": "Olen",
+   "Gemeente": "Olen",
+   "Taal": "N"
+ },
+ {
+   "Code": "13031",
+   "Commune": "Oud-Turnhout",
+   "Gemeente": "Oud-Turnhout",
+   "Taal": "N"
+ },
+ {
+   "Code": "13035",
+   "Commune": "Ravels",
+   "Gemeente": "Ravels",
+   "Taal": "N"
+ },
+ {
+   "Code": "13036",
+   "Commune": "Retie",
+   "Gemeente": "Retie",
+   "Taal": "N"
+ },
+ {
+   "Code": "13037",
+   "Commune": "Rijkevorsel",
+   "Gemeente": "Rijkevorsel",
+   "Taal": "N"
+ },
+ {
+   "Code": "13040",
+   "Commune": "Turnhout",
+   "Gemeente": "Turnhout",
+   "Taal": "N"
+ },
+ {
+   "Code": "13044",
+   "Commune": "Vorselaar",
+   "Gemeente": "Vorselaar",
+   "Taal": "N"
+ },
+ {
+   "Code": "13046",
+   "Commune": "Vosselaar",
+   "Gemeente": "Vosselaar",
+   "Taal": "N"
+ },
+ {
+   "Code": "13049",
+   "Commune": "Westerlo",
+   "Gemeente": "Westerlo",
+   "Taal": "N"
+ },
+ {
+   "Code": "20001",
+   "Commune": "Province du Brabant Flamand",
+   "Gemeente": "Provincie Vlaams-Brabant",
+   "Taal": ""
+ },
+ {
+   "Code": "23000",
+   "Commune": "Arrondissement de Hal-Vilvorde",
+   "Gemeente": "Arrondissement Halle-Vilvoorde",
+   "Taal": ""
+ },
+ {
+   "Code": "23105",
+   "Commune": "Affligem",
+   "Gemeente": "Affligem",
+   "Taal": "N"
+ },
+ {
+   "Code": "23002",
+   "Commune": "Asse",
+   "Gemeente": "Asse",
+   "Taal": "N"
+ },
+ {
+   "Code": "23003",
+   "Commune": "Beersel",
+   "Gemeente": "Beersel",
+   "Taal": "N"
+ },
+ {
+   "Code": "23009",
+   "Commune": "Bi�v�ne",
+   "Gemeente": "Bever",
+   "Taal": "N"
+ },
+ {
+   "Code": "23016",
+   "Commune": "Dilbeek",
+   "Gemeente": "Dilbeek",
+   "Taal": "N"
+ },
+ {
+   "Code": "23098",
+   "Commune": "Drogenbos",
+   "Gemeente": "Drogenbos",
+   "Taal": "N"
+ },
+ {
+   "Code": "23023",
+   "Commune": "Gammerages",
+   "Gemeente": "Galmaarden",
+   "Taal": "N"
+ },
+ {
+   "Code": "23024",
+   "Commune": "Gooik",
+   "Gemeente": "Gooik",
+   "Taal": "N"
+ },
+ {
+   "Code": "23025",
+   "Commune": "Grimbergen",
+   "Gemeente": "Grimbergen",
+   "Taal": "N"
+ },
+ {
+   "Code": "23027",
+   "Commune": "Hal",
+   "Gemeente": "Halle",
+   "Taal": "N"
+ },
+ {
+   "Code": "23032",
+   "Commune": "Herne",
+   "Gemeente": "Herne",
+   "Taal": "N"
+ },
+ {
+   "Code": "23033",
+   "Commune": "Hoeilaart",
+   "Gemeente": "Hoeilaart",
+   "Taal": "N"
+ },
+ {
+   "Code": "23038",
+   "Commune": "Kampenhout",
+   "Gemeente": "Kampenhout",
+   "Taal": "N"
+ },
+ {
+   "Code": "23039",
+   "Commune": "Kapelle-op-den-Bos",
+   "Gemeente": "Kapelle-op-den-Bos",
+   "Taal": "N"
+ },
+ {
+   "Code": "23099",
+   "Commune": "Kraainem",
+   "Gemeente": "Kraainem",
+   "Taal": "N"
+ },
+ {
+   "Code": "23104",
+   "Commune": "Lennik",
+   "Gemeente": "Lennik",
+   "Taal": "N"
+ },
+ {
+   "Code": "23044",
+   "Commune": "Liedekerke",
+   "Gemeente": "Liedekerke",
+   "Taal": "N"
+ },
+ {
+   "Code": "23100",
+   "Commune": "Linkebeek",
+   "Gemeente": "Linkebeek",
+   "Taal": "N"
+ },
+ {
+   "Code": "23045",
+   "Commune": "Londerzeel",
+   "Gemeente": "Londerzeel",
+   "Taal": "N"
+ },
+ {
+   "Code": "23047",
+   "Commune": "Machelen",
+   "Gemeente": "Machelen",
+   "Taal": "N"
+ },
+ {
+   "Code": "23050",
+   "Commune": "Meise",
+   "Gemeente": "Meise",
+   "Taal": "N"
+ },
+ {
+   "Code": "23052",
+   "Commune": "Merchtem",
+   "Gemeente": "Merchtem",
+   "Taal": "N"
+ },
+ {
+   "Code": "23060",
+   "Commune": "Opwijk",
+   "Gemeente": "Opwijk",
+   "Taal": "N"
+ },
+ {
+   "Code": "23062",
+   "Commune": "Overijse",
+   "Gemeente": "Overijse",
+   "Taal": "N"
+ },
+ {
+   "Code": "23064",
+   "Commune": "Pepingen",
+   "Gemeente": "Pepingen",
+   "Taal": "N"
+ },
+ {
+   "Code": "23101",
+   "Commune": "Rhode-Saint-Gen�se",
+   "Gemeente": "Sint-Genesius-Rode",
+   "Taal": "N"
+ },
+ {
+   "Code": "23097",
+   "Commune": "Roosdaal",
+   "Gemeente": "Roosdaal",
+   "Taal": "N"
+ },
+ {
+   "Code": "23077",
+   "Commune": "Sint-Pieters-Leeuw",
+   "Gemeente": "Sint-Pieters-Leeuw",
+   "Taal": "N"
+ },
+ {
+   "Code": "23081",
+   "Commune": "Steenokkerzeel",
+   "Gemeente": "Steenokkerzeel",
+   "Taal": "N"
+ },
+ {
+   "Code": "23086",
+   "Commune": "Ternat",
+   "Gemeente": "Ternat",
+   "Taal": "N"
+ },
+ {
+   "Code": "23088",
+   "Commune": "Vilvorde",
+   "Gemeente": "Vilvoorde",
+   "Taal": "N"
+ },
+ {
+   "Code": "23102",
+   "Commune": "Wemmel",
+   "Gemeente": "Wemmel",
+   "Taal": "N"
+ },
+ {
+   "Code": "23103",
+   "Commune": "Wezembeek-Oppem",
+   "Gemeente": "Wezembeek-Oppem",
+   "Taal": "N"
+ },
+ {
+   "Code": "23094",
+   "Commune": "Zaventem",
+   "Gemeente": "Zaventem",
+   "Taal": "N"
+ },
+ {
+   "Code": "23096",
+   "Commune": "Zemst",
+   "Gemeente": "Zemst",
+   "Taal": "N"
+ },
+ {
+   "Code": "24000",
+   "Commune": "Arrondissement de Louvain",
+   "Gemeente": "Arrondissement Leuven",
+   "Taal": ""
+ },
+ {
+   "Code": "24001",
+   "Commune": "Aarschot",
+   "Gemeente": "Aarschot",
+   "Taal": "N"
+ },
+ {
+   "Code": "24007",
+   "Commune": "Begijnendijk",
+   "Gemeente": "Begijnendijk",
+   "Taal": "N"
+ },
+ {
+   "Code": "24008",
+   "Commune": "Bekkevoort",
+   "Gemeente": "Bekkevoort",
+   "Taal": "N"
+ },
+ {
+   "Code": "24009",
+   "Commune": "Bertem",
+   "Gemeente": "Bertem",
+   "Taal": "N"
+ },
+ {
+   "Code": "24011",
+   "Commune": "Bierbeek",
+   "Gemeente": "Bierbeek",
+   "Taal": "N"
+ },
+ {
+   "Code": "24014",
+   "Commune": "Boortmeerbeek",
+   "Gemeente": "Boortmeerbeek",
+   "Taal": "N"
+ },
+ {
+   "Code": "24016",
+   "Commune": "Boutersem",
+   "Gemeente": "Boutersem",
+   "Taal": "N"
+ },
+ {
+   "Code": "24020",
+   "Commune": "Diest",
+   "Gemeente": "Diest",
+   "Taal": "N"
+ },
+ {
+   "Code": "24028",
+   "Commune": "Geetbets",
+   "Gemeente": "Geetbets",
+   "Taal": "N"
+ },
+ {
+   "Code": "24137",
+   "Commune": "Glabbeek",
+   "Gemeente": "Glabbeek",
+   "Taal": "N"
+ },
+ {
+   "Code": "24033",
+   "Commune": "Haacht",
+   "Gemeente": "Haacht",
+   "Taal": "N"
+ },
+ {
+   "Code": "24038",
+   "Commune": "Herent",
+   "Gemeente": "Herent",
+   "Taal": "N"
+ },
+ {
+   "Code": "24041",
+   "Commune": "Hoegaarden",
+   "Gemeente": "Hoegaarden",
+   "Taal": "N"
+ },
+ {
+   "Code": "24043",
+   "Commune": "Holsbeek",
+   "Gemeente": "Holsbeek",
+   "Taal": "N"
+ },
+ {
+   "Code": "24045",
+   "Commune": "Huldenberg",
+   "Gemeente": "Huldenberg",
+   "Taal": "N"
+ },
+ {
+   "Code": "24048",
+   "Commune": "Keerbergen",
+   "Gemeente": "Keerbergen",
+   "Taal": "N"
+ },
+ {
+   "Code": "24054",
+   "Commune": "Kortenaken",
+   "Gemeente": "Kortenaken",
+   "Taal": "N"
+ },
+ {
+   "Code": "24055",
+   "Commune": "Kortenberg",
+   "Gemeente": "Kortenberg",
+   "Taal": "N"
+ },
+ {
+   "Code": "24059",
+   "Commune": "Landen",
+   "Gemeente": "Landen",
+   "Taal": "N"
+ },
+ {
+   "Code": "24130",
+   "Commune": "L�au",
+   "Gemeente": "Zoutleeuw",
+   "Taal": "N"
+ },
+ {
+   "Code": "24133",
+   "Commune": "Linter",
+   "Gemeente": "Linter",
+   "Taal": "N"
+ },
+ {
+   "Code": "24062",
+   "Commune": "Louvain",
+   "Gemeente": "Leuven",
+   "Taal": "N"
+ },
+ {
+   "Code": "24066",
+   "Commune": "Lubbeek",
+   "Gemeente": "Lubbeek",
+   "Taal": "N"
+ },
+ {
+   "Code": "24134",
+   "Commune": "Montaigu-Zichem",
+   "Gemeente": "Scherpenheuvel-Zichem",
+   "Taal": "N"
+ },
+ {
+   "Code": "24086",
+   "Commune": "Oud-Heverlee",
+   "Gemeente": "Oud-Heverlee",
+   "Taal": "N"
+ },
+ {
+   "Code": "24094",
+   "Commune": "Rotselaar",
+   "Gemeente": "Rotselaar",
+   "Taal": "N"
+ },
+ {
+   "Code": "24104",
+   "Commune": "Tervuren",
+   "Gemeente": "Tervuren",
+   "Taal": "N"
+ },
+ {
+   "Code": "24135",
+   "Commune": "Tielt-Winge",
+   "Gemeente": "Tielt-Winge",
+   "Taal": "N"
+ },
+ {
+   "Code": "24107",
+   "Commune": "Tirlemont",
+   "Gemeente": "Tienen",
+   "Taal": "N"
+ },
+ {
+   "Code": "24109",
+   "Commune": "Tremelo",
+   "Gemeente": "Tremelo",
+   "Taal": "N"
+ },
+ {
+   "Code": "30000",
+   "Commune": "Province de Flandre Occidentale",
+   "Gemeente": "Provincie West-Vlaanderen",
+   "Taal": ""
+ },
+ {
+   "Code": "31000",
+   "Commune": "Arrondissement de Bruges",
+   "Gemeente": "Arrondissement Brugge",
+   "Taal": ""
+ },
+ {
+   "Code": "31003",
+   "Commune": "Beernem",
+   "Gemeente": "Beernem",
+   "Taal": "N"
+ },
+ {
+   "Code": "31004",
+   "Commune": "Blankenberge",
+   "Gemeente": "Blankenberge",
+   "Taal": "N"
+ },
+ {
+   "Code": "31005",
+   "Commune": "Bruges",
+   "Gemeente": "Brugge",
+   "Taal": "N"
+ },
+ {
+   "Code": "31006",
+   "Commune": "Damme",
+   "Gemeente": "Damme",
+   "Taal": "N"
+ },
+ {
+   "Code": "31012",
+   "Commune": "Jabbeke",
+   "Gemeente": "Jabbeke",
+   "Taal": "N"
+ },
+ {
+   "Code": "31043",
+   "Commune": "Knokke-Heist",
+   "Gemeente": "Knokke-Heist",
+   "Taal": "N"
+ },
+ {
+   "Code": "31022",
+   "Commune": "Oostkamp",
+   "Gemeente": "Oostkamp",
+   "Taal": "N"
+ },
+ {
+   "Code": "31033",
+   "Commune": "Torhout",
+   "Gemeente": "Torhout",
+   "Taal": "N"
+ },
+ {
+   "Code": "31040",
+   "Commune": "Zedelgem",
+   "Gemeente": "Zedelgem",
+   "Taal": "N"
+ },
+ {
+   "Code": "31042",
+   "Commune": "Zuienkerke",
+   "Gemeente": "Zuienkerke",
+   "Taal": "N"
+ },
+ {
+   "Code": "34000",
+   "Commune": "Arrondissement de Courtrai",
+   "Gemeente": "Arrondissement Kortrijk",
+   "Taal": ""
+ },
+ {
+   "Code": "34002",
+   "Commune": "Anzegem",
+   "Gemeente": "Anzegem",
+   "Taal": "N"
+ },
+ {
+   "Code": "34003",
+   "Commune": "Avelgem",
+   "Gemeente": "Avelgem",
+   "Taal": "N"
+ },
+ {
+   "Code": "34022",
+   "Commune": "Courtrai",
+   "Gemeente": "Kortrijk",
+   "Taal": "N"
+ },
+ {
+   "Code": "34009",
+   "Commune": "Deerlijk",
+   "Gemeente": "Deerlijk",
+   "Taal": "N"
+ },
+ {
+   "Code": "34043",
+   "Commune": "Espierres-Helchin",
+   "Gemeente": "Spiere-Helkijn",
+   "Taal": "N"
+ },
+ {
+   "Code": "34013",
+   "Commune": "Harelbeke",
+   "Gemeente": "Harelbeke",
+   "Taal": "N"
+ },
+ {
+   "Code": "34023",
+   "Commune": "Kuurne",
+   "Gemeente": "Kuurne",
+   "Taal": "N"
+ },
+ {
+   "Code": "34025",
+   "Commune": "Lendelede",
+   "Gemeente": "Lendelede",
+   "Taal": "N"
+ },
+ {
+   "Code": "34027",
+   "Commune": "Menin",
+   "Gemeente": "Menen",
+   "Taal": "N"
+ },
+ {
+   "Code": "34040",
+   "Commune": "Waregem",
+   "Gemeente": "Waregem",
+   "Taal": "N"
+ },
+ {
+   "Code": "34041",
+   "Commune": "Wevelgem",
+   "Gemeente": "Wevelgem",
+   "Taal": "N"
+ },
+ {
+   "Code": "34042",
+   "Commune": "Zwevegem",
+   "Gemeente": "Zwevegem",
+   "Taal": "N"
+ },
+ {
+   "Code": "32000",
+   "Commune": "Arrondissement de Dixmude",
+   "Gemeente": "Arrondissement Diksmuide",
+   "Taal": ""
+ },
+ {
+   "Code": "32003",
+   "Commune": "Dixmude",
+   "Gemeente": "Diksmuide",
+   "Taal": "N"
+ },
+ {
+   "Code": "32006",
+   "Commune": "Houthulst",
+   "Gemeente": "Houthulst",
+   "Taal": "N"
+ },
+ {
+   "Code": "32010",
+   "Commune": "Koekelare",
+   "Gemeente": "Koekelare",
+   "Taal": "N"
+ },
+ {
+   "Code": "32011",
+   "Commune": "Kortemark",
+   "Gemeente": "Kortemark",
+   "Taal": "N"
+ },
+ {
+   "Code": "32030",
+   "Commune": "Lo-Reninge",
+   "Gemeente": "Lo-Reninge",
+   "Taal": "N"
+ },
+ {
+   "Code": "38000",
+   "Commune": "Arrondissement de Furnes",
+   "Gemeente": "Arrondissement Veurne",
+   "Taal": ""
+ },
+ {
+   "Code": "38002",
+   "Commune": "Alveringem",
+   "Gemeente": "Alveringem",
+   "Taal": "N"
+ },
+ {
+   "Code": "38025",
+   "Commune": "Furnes",
+   "Gemeente": "Veurne",
+   "Taal": "N"
+ },
+ {
+   "Code": "38014",
+   "Commune": "Koksijde",
+   "Gemeente": "Koksijde",
+   "Taal": "N"
+ },
+ {
+   "Code": "38008",
+   "Commune": "La Panne",
+   "Gemeente": "De Panne",
+   "Taal": "N"
+ },
+ {
+   "Code": "38016",
+   "Commune": "Nieuport",
+   "Gemeente": "Nieuwpoort",
+   "Taal": "N"
+ },
+ {
+   "Code": "35000",
+   "Commune": "Arrondissement d'Ostende",
+   "Gemeente": "Arrondissement Oostende",
+   "Taal": ""
+ },
+ {
+   "Code": "35002",
+   "Commune": "Bredene",
+   "Gemeente": "Bredene",
+   "Taal": "N"
+ },
+ {
+   "Code": "35029",
+   "Commune": "De Haan",
+   "Gemeente": "De Haan",
+   "Taal": "N"
+ },
+ {
+   "Code": "35005",
+   "Commune": "Gistel",
+   "Gemeente": "Gistel",
+   "Taal": "N"
+ },
+ {
+   "Code": "35006",
+   "Commune": "Ichtegem",
+   "Gemeente": "Ichtegem",
+   "Taal": "N"
+ },
+ {
+   "Code": "35011",
+   "Commune": "Middelkerke",
+   "Gemeente": "Middelkerke",
+   "Taal": "N"
+ },
+ {
+   "Code": "35013",
+   "Commune": "Ostende",
+   "Gemeente": "Oostende",
+   "Taal": "N"
+ },
+ {
+   "Code": "35014",
+   "Commune": "Oudenburg",
+   "Gemeente": "Oudenburg",
+   "Taal": "N"
+ },
+ {
+   "Code": "36000",
+   "Commune": "Arrondissement de Roulers",
+   "Gemeente": "Arrondissement Roeselare",
+   "Taal": ""
+ },
+ {
+   "Code": "36006",
+   "Commune": "Hooglede",
+   "Gemeente": "Hooglede",
+   "Taal": "N"
+ },
+ {
+   "Code": "36007",
+   "Commune": "Ingelmunster",
+   "Gemeente": "Ingelmunster",
+   "Taal": "N"
+ },
+ {
+   "Code": "36008",
+   "Commune": "Izegem",
+   "Gemeente": "Izegem",
+   "Taal": "N"
+ },
+ {
+   "Code": "36010",
+   "Commune": "Ledegem",
+   "Gemeente": "Ledegem",
+   "Taal": "N"
+ },
+ {
+   "Code": "36011",
+   "Commune": "Lichtervelde",
+   "Gemeente": "Lichtervelde",
+   "Taal": "N"
+ },
+ {
+   "Code": "36012",
+   "Commune": "Moorslede",
+   "Gemeente": "Moorslede",
+   "Taal": "N"
+ },
+ {
+   "Code": "36015",
+   "Commune": "Roulers",
+   "Gemeente": "Roeselare",
+   "Taal": "N"
+ },
+ {
+   "Code": "36019",
+   "Commune": "Staden",
+   "Gemeente": "Staden",
+   "Taal": "N"
+ },
+ {
+   "Code": "37000",
+   "Commune": "Arrondissement de Tielt",
+   "Gemeente": "Arrondissement Tielt",
+   "Taal": ""
+ },
+ {
+   "Code": "37020",
+   "Commune": "Ardooie",
+   "Gemeente": "Ardooie",
+   "Taal": "N"
+ },
+ {
+   "Code": "37002",
+   "Commune": "Dentergem",
+   "Gemeente": "Dentergem",
+   "Taal": "N"
+ },
+ {
+   "Code": "37007",
+   "Commune": "Meulebeke",
+   "Gemeente": "Meulebeke",
+   "Taal": "N"
+ },
+ {
+   "Code": "37010",
+   "Commune": "Oostrozebeke",
+   "Gemeente": "Oostrozebeke",
+   "Taal": "N"
+ },
+ {
+   "Code": "37011",
+   "Commune": "Pittem",
+   "Gemeente": "Pittem",
+   "Taal": "N"
+ },
+ {
+   "Code": "37012",
+   "Commune": "Ruiselede",
+   "Gemeente": "Ruiselede",
+   "Taal": "N"
+ },
+ {
+   "Code": "37015",
+   "Commune": "Tielt",
+   "Gemeente": "Tielt",
+   "Taal": "N"
+ },
+ {
+   "Code": "37017",
+   "Commune": "Wielsbeke",
+   "Gemeente": "Wielsbeke",
+   "Taal": "N"
+ },
+ {
+   "Code": "37018",
+   "Commune": "Wingene",
+   "Gemeente": "Wingene",
+   "Taal": "N"
+ },
+ {
+   "Code": "33000",
+   "Commune": "Arrondissement d'Ypres",
+   "Gemeente": "Arrondissement Ieper",
+   "Taal": ""
+ },
+ {
+   "Code": "33039",
+   "Commune": "Heuvelland",
+   "Gemeente": "Heuvelland",
+   "Taal": "N"
+ },
+ {
+   "Code": "33040",
+   "Commune": "Langemark-Poelkapelle",
+   "Gemeente": "Langemark-Poelkapelle",
+   "Taal": "N"
+ },
+ {
+   "Code": "33016",
+   "Commune": "Messines",
+   "Gemeente": "Mesen",
+   "Taal": "N"
+ },
+ {
+   "Code": "33021",
+   "Commune": "Poperinge",
+   "Gemeente": "Poperinge",
+   "Taal": "N"
+ },
+ {
+   "Code": "33041",
+   "Commune": "Vleteren",
+   "Gemeente": "Vleteren",
+   "Taal": "N"
+ },
+ {
+   "Code": "33029",
+   "Commune": "Wervik",
+   "Gemeente": "Wervik",
+   "Taal": "N"
+ },
+ {
+   "Code": "33011",
+   "Commune": "Ypres",
+   "Gemeente": "Ieper",
+   "Taal": "N"
+ },
+ {
+   "Code": "33037",
+   "Commune": "Zonnebeke",
+   "Gemeente": "Zonnebeke",
+   "Taal": "N"
+ },
+ {
+   "Code": "40000",
+   "Commune": "Province de Flandre Orientale",
+   "Gemeente": "Provincie Oost-Vlaanderen",
+   "Taal": ""
+ },
+ {
+   "Code": "41000",
+   "Commune": "Arrondissement d'Alost",
+   "Gemeente": "Arrondissement Aalst",
+   "Taal": ""
+ },
+ {
+   "Code": "41002",
+   "Commune": "Alost",
+   "Gemeente": "Aalst",
+   "Taal": "N"
+ },
+ {
+   "Code": "41011",
+   "Commune": "Denderleeuw",
+   "Gemeente": "Denderleeuw",
+   "Taal": "N"
+ },
+ {
+   "Code": "41082",
+   "Commune": "Erpe-Mere",
+   "Gemeente": "Erpe-Mere",
+   "Taal": "N"
+ },
+ {
+   "Code": "41018",
+   "Commune": "Grammont",
+   "Gemeente": "Geraardsbergen",
+   "Taal": "N"
+ },
+ {
+   "Code": "41024",
+   "Commune": "Haaltert",
+   "Gemeente": "Haaltert",
+   "Taal": "N"
+ },
+ {
+   "Code": "41027",
+   "Commune": "Herzele",
+   "Gemeente": "Herzele",
+   "Taal": "N"
+ },
+ {
+   "Code": "41034",
+   "Commune": "Lede",
+   "Gemeente": "Lede",
+   "Taal": "N"
+ },
+ {
+   "Code": "41048",
+   "Commune": "Ninove",
+   "Gemeente": "Ninove",
+   "Taal": "N"
+ },
+ {
+   "Code": "41063",
+   "Commune": "Sint-Lievens-Houtem",
+   "Gemeente": "Sint-Lievens-Houtem",
+   "Taal": "N"
+ },
+ {
+   "Code": "41081",
+   "Commune": "Zottegem",
+   "Gemeente": "Zottegem",
+   "Taal": "N"
+ },
+ {
+   "Code": "45000",
+   "Commune": "Arrondissement d'Audenarde",
+   "Gemeente": "Arrondissement Oudenaarde",
+   "Taal": ""
+ },
+ {
+   "Code": "45035",
+   "Commune": "Audenarde",
+   "Gemeente": "Oudenaarde",
+   "Taal": "N"
+ },
+ {
+   "Code": "45059",
+   "Commune": "Brakel",
+   "Gemeente": "Brakel",
+   "Taal": "N"
+ },
+ {
+   "Code": "45062",
+   "Commune": "Horebeke",
+   "Gemeente": "Horebeke",
+   "Taal": "N"
+ },
+ {
+   "Code": "45060",
+   "Commune": "Kluisbergen",
+   "Gemeente": "Kluisbergen",
+   "Taal": "N"
+ },
+ {
+   "Code": "45068",
+   "Commune": "Kruisem",
+   "Gemeente": "Kruisem",
+   "Taal": "N"
+ },
+ {
+   "Code": "45063",
+   "Commune": "Lierde",
+   "Gemeente": "Lierde",
+   "Taal": "N"
+ },
+ {
+   "Code": "45064",
+   "Commune": "Maarkedal",
+   "Gemeente": "Maarkedal",
+   "Taal": "N"
+ },
+ {
+   "Code": "45041",
+   "Commune": "Renaix",
+   "Gemeente": "Ronse",
+   "Taal": "N"
+ },
+ {
+   "Code": "45061",
+   "Commune": "Wortegem-Petegem",
+   "Gemeente": "Wortegem-Petegem",
+   "Taal": "N"
+ },
+ {
+   "Code": "45065",
+   "Commune": "Zwalm",
+   "Gemeente": "Zwalm",
+   "Taal": "N"
+ },
+ {
+   "Code": "43000",
+   "Commune": "Arrondissement d'Eeklo",
+   "Gemeente": "Arrondissement Eeklo",
+   "Taal": ""
+ },
+ {
+   "Code": "43002",
+   "Commune": "Assenede",
+   "Gemeente": "Assenede",
+   "Taal": "N"
+ },
+ {
+   "Code": "43005",
+   "Commune": "Eeklo",
+   "Gemeente": "Eeklo",
+   "Taal": "N"
+ },
+ {
+   "Code": "43007",
+   "Commune": "Kaprijke",
+   "Gemeente": "Kaprijke",
+   "Taal": "N"
+ },
+ {
+   "Code": "43010",
+   "Commune": "Maldegem",
+   "Gemeente": "Maldegem",
+   "Taal": "N"
+ },
+ {
+   "Code": "43014",
+   "Commune": "Sint-Laureins",
+   "Gemeente": "Sint-Laureins",
+   "Taal": "N"
+ },
+ {
+   "Code": "43018",
+   "Commune": "Zelzate",
+   "Gemeente": "Zelzate",
+   "Taal": "N"
+ },
+ {
+   "Code": "44000",
+   "Commune": "Arrondissement de Gand",
+   "Gemeente": "Arrondissement Gent",
+   "Taal": ""
+ },
+ {
+   "Code": "44084",
+   "Commune": "Aalter",
+   "Gemeente": "Aalter",
+   "Taal": "N"
+ },
+ {
+   "Code": "44012",
+   "Commune": "De Pinte",
+   "Gemeente": "De Pinte",
+   "Taal": "N"
+ },
+ {
+   "Code": "44083",
+   "Commune": "Deinze",
+   "Gemeente": "Deinze",
+   "Taal": "N"
+ },
+ {
+   "Code": "44013",
+   "Commune": "Destelbergen",
+   "Gemeente": "Destelbergen",
+   "Taal": "N"
+ },
+ {
+   "Code": "44019",
+   "Commune": "Evergem",
+   "Gemeente": "Evergem",
+   "Taal": "N"
+ },
+ {
+   "Code": "44021",
+   "Commune": "Gand",
+   "Gemeente": "Gent",
+   "Taal": "N"
+ },
+ {
+   "Code": "44020",
+   "Commune": "Gavere",
+   "Gemeente": "Gavere",
+   "Taal": "N"
+ },
+ {
+   "Code": "44085",
+   "Commune": "Lievegem",
+   "Gemeente": "Lievegem",
+   "Taal": "N"
+ },
+ {
+   "Code": "44034",
+   "Commune": "Lochristi",
+   "Gemeente": "Lochristi",
+   "Taal": "N"
+ },
+ {
+   "Code": "44040",
+   "Commune": "Melle",
+   "Gemeente": "Melle",
+   "Taal": "N"
+ },
+ {
+   "Code": "44043",
+   "Commune": "Merelbeke",
+   "Gemeente": "Merelbeke",
+   "Taal": "N"
+ },
+ {
+   "Code": "44045",
+   "Commune": "Moerbeke",
+   "Gemeente": "Moerbeke",
+   "Taal": "N"
+ },
+ {
+   "Code": "44048",
+   "Commune": "Nazareth",
+   "Gemeente": "Nazareth",
+   "Taal": "N"
+ },
+ {
+   "Code": "44052",
+   "Commune": "Oosterzele",
+   "Gemeente": "Oosterzele",
+   "Taal": "N"
+ },
+ {
+   "Code": "44064",
+   "Commune": "Sint-Martens-Latem",
+   "Gemeente": "Sint-Martens-Latem",
+   "Taal": "N"
+ },
+ {
+   "Code": "44073",
+   "Commune": "Wachtebeke",
+   "Gemeente": "Wachtebeke",
+   "Taal": "N"
+ },
+ {
+   "Code": "44081",
+   "Commune": "Zulte",
+   "Gemeente": "Zulte",
+   "Taal": "N"
+ },
+ {
+   "Code": "46000",
+   "Commune": "Arrondissement de Saint-Nicolas",
+   "Gemeente": "Arrondissement Sint-Niklaas",
+   "Taal": ""
+ },
+ {
+   "Code": "46003",
+   "Commune": "Beveren",
+   "Gemeente": "Beveren",
+   "Taal": "N"
+ },
+ {
+   "Code": "46013",
+   "Commune": "Kruibeke",
+   "Gemeente": "Kruibeke",
+   "Taal": "N"
+ },
+ {
+   "Code": "46014",
+   "Commune": "Lokeren",
+   "Gemeente": "Lokeren",
+   "Taal": "N"
+ },
+ {
+   "Code": "46021",
+   "Commune": "Saint-Nicolas",
+   "Gemeente": "Sint-Niklaas",
+   "Taal": "N"
+ },
+ {
+   "Code": "46020",
+   "Commune": "Sint-Gillis-Waas",
+   "Gemeente": "Sint-Gillis-Waas",
+   "Taal": "N"
+ },
+ {
+   "Code": "46024",
+   "Commune": "Stekene",
+   "Gemeente": "Stekene",
+   "Taal": "N"
+ },
+ {
+   "Code": "46025",
+   "Commune": "Tamise",
+   "Gemeente": "Temse",
+   "Taal": "N"
+ },
+ {
+   "Code": "42000",
+   "Commune": "Arrondissement de Termonde",
+   "Gemeente": "Arrondissement Dendermonde",
+   "Taal": ""
+ },
+ {
+   "Code": "42003",
+   "Commune": "Berlare",
+   "Gemeente": "Berlare",
+   "Taal": "N"
+ },
+ {
+   "Code": "42004",
+   "Commune": "Buggenhout",
+   "Gemeente": "Buggenhout",
+   "Taal": "N"
+ },
+ {
+   "Code": "42008",
+   "Commune": "Hamme",
+   "Gemeente": "Hamme",
+   "Taal": "N"
+ },
+ {
+   "Code": "42010",
+   "Commune": "Laarne",
+   "Gemeente": "Laarne",
+   "Taal": "N"
+ },
+ {
+   "Code": "42011",
+   "Commune": "Lebbeke",
+   "Gemeente": "Lebbeke",
+   "Taal": "N"
+ },
+ {
+   "Code": "42006",
+   "Commune": "Termonde",
+   "Gemeente": "Dendermonde",
+   "Taal": "N"
+ },
+ {
+   "Code": "42023",
+   "Commune": "Waasmunster",
+   "Gemeente": "Waasmunster",
+   "Taal": "N"
+ },
+ {
+   "Code": "42025",
+   "Commune": "Wetteren",
+   "Gemeente": "Wetteren",
+   "Taal": "N"
+ },
+ {
+   "Code": "42026",
+   "Commune": "Wichelen",
+   "Gemeente": "Wichelen",
+   "Taal": "N"
+ },
+ {
+   "Code": "42028",
+   "Commune": "Zele",
+   "Gemeente": "Zele",
+   "Taal": "N"
+ },
+ {
+   "Code": "70000",
+   "Commune": "Province du Limbourg",
+   "Gemeente": "Provincie Limburg",
+   "Taal": ""
+ },
+ {
+   "Code": "71000",
+   "Commune": "Arrondissement de Hasselt",
+   "Gemeente": "Arrondissement Hasselt",
+   "Taal": ""
+ },
+ {
+   "Code": "71002",
+   "Commune": "As",
+   "Gemeente": "As",
+   "Taal": "N"
+ },
+ {
+   "Code": "71004",
+   "Commune": "Beringen",
+   "Gemeente": "Beringen",
+   "Taal": "N"
+ },
+ {
+   "Code": "71034",
+   "Commune": "Bourg-L�opold",
+   "Gemeente": "Leopoldsburg",
+   "Taal": "N"
+ },
+ {
+   "Code": "71011",
+   "Commune": "Diepenbeek",
+   "Gemeente": "Diepenbeek",
+   "Taal": "N"
+ },
+ {
+   "Code": "71016",
+   "Commune": "Genk",
+   "Gemeente": "Genk",
+   "Taal": "N"
+ },
+ {
+   "Code": "71017",
+   "Commune": "Gingelom",
+   "Gemeente": "Gingelom",
+   "Taal": "N"
+ },
+ {
+   "Code": "71020",
+   "Commune": "Halen",
+   "Gemeente": "Halen",
+   "Taal": "N"
+ },
+ {
+   "Code": "71069",
+   "Commune": "Ham",
+   "Gemeente": "Ham",
+   "Taal": "N"
+ },
+ {
+   "Code": "71022",
+   "Commune": "Hasselt",
+   "Gemeente": "Hasselt",
+   "Taal": "N"
+ },
+ {
+   "Code": "71024",
+   "Commune": "Herck-la-Ville",
+   "Gemeente": "Herk-de-Stad",
+   "Taal": "N"
+ },
+ {
+   "Code": "71070",
+   "Commune": "Heusden-Zolder",
+   "Gemeente": "Heusden-Zolder",
+   "Taal": "N"
+ },
+ {
+   "Code": "71037",
+   "Commune": "Lummen",
+   "Gemeente": "Lummen",
+   "Taal": "N"
+ },
+ {
+   "Code": "71045",
+   "Commune": "Nieuwerkerken",
+   "Gemeente": "Nieuwerkerken",
+   "Taal": "N"
+ },
+ {
+   "Code": "71053",
+   "Commune": "Saint-Trond",
+   "Gemeente": "Sint-Truiden",
+   "Taal": "N"
+ },
+ {
+   "Code": "71057",
+   "Commune": "Tessenderlo",
+   "Gemeente": "Tessenderlo",
+   "Taal": "N"
+ },
+ {
+   "Code": "71066",
+   "Commune": "Zonhoven",
+   "Gemeente": "Zonhoven",
+   "Taal": "N"
+ },
+ {
+   "Code": "71067",
+   "Commune": "Zutendaal",
+   "Gemeente": "Zutendaal",
+   "Taal": "N"
+ },
+ {
+   "Code": "72000",
+   "Commune": "Arrondissement de Maaseik",
+   "Gemeente": "Arrondissement Maaseik",
+   "Taal": ""
+ },
+ {
+   "Code": "72003",
+   "Commune": "Bocholt",
+   "Gemeente": "Bocholt",
+   "Taal": "N"
+ },
+ {
+   "Code": "72004",
+   "Commune": "Bree",
+   "Gemeente": "Bree",
+   "Taal": "N"
+ },
+ {
+   "Code": "72041",
+   "Commune": "Dilsen-Stokkem",
+   "Gemeente": "Dilsen-Stokkem",
+   "Taal": "N"
+ },
+ {
+   "Code": "72037",
+   "Commune": "Hamont-Achel",
+   "Gemeente": "Hamont-Achel",
+   "Taal": "N"
+ },
+ {
+   "Code": "72038",
+   "Commune": "Hechtel-Eksel",
+   "Gemeente": "Hechtel-Eksel",
+   "Taal": "N"
+ },
+ {
+   "Code": "72039",
+   "Commune": "Houthalen-Helchteren",
+   "Gemeente": "Houthalen-Helchteren",
+   "Taal": "N"
+ },
+ {
+   "Code": "72018",
+   "Commune": "Kinrooi",
+   "Gemeente": "Kinrooi",
+   "Taal": "N"
+ },
+ {
+   "Code": "72020",
+   "Commune": "Lommel",
+   "Gemeente": "Lommel",
+   "Taal": "N"
+ },
+ {
+   "Code": "72021",
+   "Commune": "Maaseik",
+   "Gemeente": "Maaseik",
+   "Taal": "N"
+ },
+ {
+   "Code": "72042",
+   "Commune": "Oudsbergen",
+   "Gemeente": "Oudsbergen",
+   "Taal": "N"
+ },
+ {
+   "Code": "72030",
+   "Commune": "Peer",
+   "Gemeente": "Peer",
+   "Taal": "N"
+ },
+ {
+   "Code": "72043",
+   "Commune": "Pelt",
+   "Gemeente": "Pelt",
+   "Taal": "N"
+ },
+ {
+   "Code": "73000",
+   "Commune": "Arrondissement de Tongres",
+   "Gemeente": "Arrondissement Tongeren",
+   "Taal": ""
+ },
+ {
+   "Code": "73001",
+   "Commune": "Alken",
+   "Gemeente": "Alken",
+   "Taal": "N"
+ },
+ {
+   "Code": "73006",
+   "Commune": "Bilzen",
+   "Gemeente": "Bilzen",
+   "Taal": "N"
+ },
+ {
+   "Code": "73109",
+   "Commune": "Fourons",
+   "Gemeente": "Voeren",
+   "Taal": "N"
+ },
+ {
+   "Code": "73022",
+   "Commune": "Heers",
+   "Gemeente": "Heers",
+   "Taal": "N"
+ },
+ {
+   "Code": "73028",
+   "Commune": "Herstappe",
+   "Gemeente": "Herstappe",
+   "Taal": "N"
+ },
+ {
+   "Code": "73032",
+   "Commune": "Hoeselt",
+   "Gemeente": "Hoeselt",
+   "Taal": "N"
+ },
+ {
+   "Code": "73040",
+   "Commune": "Kortessem",
+   "Gemeente": "Kortessem",
+   "Taal": "N"
+ },
+ {
+   "Code": "73042",
+   "Commune": "Lanaken",
+   "Gemeente": "Lanaken",
+   "Taal": "N"
+ },
+ {
+   "Code": "73009",
+   "Commune": "Looz",
+   "Gemeente": "Borgloon",
+   "Taal": "N"
+ },
+ {
+   "Code": "73107",
+   "Commune": "Maasmechelen",
+   "Gemeente": "Maasmechelen",
+   "Taal": "N"
+ },
+ {
+   "Code": "73066",
+   "Commune": "Riemst",
+   "Gemeente": "Riemst",
+   "Taal": "N"
+ },
+ {
+   "Code": "73083",
+   "Commune": "Tongres",
+   "Gemeente": "Tongeren",
+   "Taal": "N"
+ },
+ {
+   "Code": "73098",
+   "Commune": "Wellen",
+   "Gemeente": "Wellen",
+   "Taal": "N"
+ },
+ {
+   "Code": "3000",
+   "Commune": "R�GION WALLONNE",
+   "Gemeente": "WAALS GEWEST",
+   "Taal": ""
+ },
+ {
+   "Code": "20002",
+   "Commune": "Province du Brabant Wallon",
+   "Gemeente": "Provincie Waals-Brabant",
+   "Taal": ""
+ },
+ {
+   "Code": "25000",
+   "Commune": "Arrondissement de Nivelles",
+   "Gemeente": "Arrondissement Nijvel",
+   "Taal": ""
+ },
+ {
+   "Code": "25005",
+   "Commune": "Beauvechain",
+   "Gemeente": "Bevekom",
+   "Taal": "F"
+ },
+ {
+   "Code": "25014",
+   "Commune": "Braine-l'Alleud",
+   "Gemeente": "Eigenbrakel",
+   "Taal": "F"
+ },
+ {
+   "Code": "25015",
+   "Commune": "Braine-le-Ch�teau",
+   "Gemeente": "Kasteelbrakel",
+   "Taal": "F"
+ },
+ {
+   "Code": "25117",
+   "Commune": "Chastre",
+   "Gemeente": "Chastre",
+   "Taal": "F"
+ },
+ {
+   "Code": "25018",
+   "Commune": "Chaumont-Gistoux",
+   "Gemeente": "Chaumont-Gistoux",
+   "Taal": "F"
+ },
+ {
+   "Code": "25023",
+   "Commune": "Court-Saint-Etienne",
+   "Gemeente": "Court-Saint-Etienne",
+   "Taal": "F"
+ },
+ {
+   "Code": "25031",
+   "Commune": "Genappe",
+   "Gemeente": "Genepien",
+   "Taal": "F"
+ },
+ {
+   "Code": "25037",
+   "Commune": "Grez-Doiceau",
+   "Gemeente": "Graven",
+   "Taal": "F"
+ },
+ {
+   "Code": "25118",
+   "Commune": "H�l�cine",
+   "Gemeente": "H�l�cine",
+   "Taal": "F"
+ },
+ {
+   "Code": "25043",
+   "Commune": "Incourt",
+   "Gemeente": "Incourt",
+   "Taal": "F"
+ },
+ {
+   "Code": "25044",
+   "Commune": "Ittre",
+   "Gemeente": "Itter",
+   "Taal": "F"
+ },
+ {
+   "Code": "25048",
+   "Commune": "Jodoigne",
+   "Gemeente": "Geldenaken",
+   "Taal": "F"
+ },
+ {
+   "Code": "25050",
+   "Commune": "La Hulpe",
+   "Gemeente": "Terhulpen",
+   "Taal": "F"
+ },
+ {
+   "Code": "25119",
+   "Commune": "Lasne",
+   "Gemeente": "Lasne",
+   "Taal": "F"
+ },
+ {
+   "Code": "25068",
+   "Commune": "Mont-Saint-Guibert",
+   "Gemeente": "Mont-Saint-Guibert",
+   "Taal": "F"
+ },
+ {
+   "Code": "25072",
+   "Commune": "Nivelles",
+   "Gemeente": "Nijvel",
+   "Taal": "F"
+ },
+ {
+   "Code": "25120",
+   "Commune": "Orp-Jauche",
+   "Gemeente": "Orp-Jauche",
+   "Taal": "F"
+ },
+ {
+   "Code": "25121",
+   "Commune": "Ottignies-Louvain-la-Neuve",
+   "Gemeente": "Ottignies-Louvain-la-Neuve",
+   "Taal": "F"
+ },
+ {
+   "Code": "25084",
+   "Commune": "Perwez",
+   "Gemeente": "Perwijs",
+   "Taal": "F"
+ },
+ {
+   "Code": "25122",
+   "Commune": "Ramillies",
+   "Gemeente": "Ramillies",
+   "Taal": "F"
+ },
+ {
+   "Code": "25123",
+   "Commune": "Rebecq",
+   "Gemeente": "Rebecq",
+   "Taal": "F"
+ },
+ {
+   "Code": "25091",
+   "Commune": "Rixensart",
+   "Gemeente": "Rixensart",
+   "Taal": "F"
+ },
+ {
+   "Code": "25105",
+   "Commune": "Tubize",
+   "Gemeente": "Tubeke",
+   "Taal": "F"
+ },
+ {
+   "Code": "25107",
+   "Commune": "Villers-la-Ville",
+   "Gemeente": "Villers-la-Ville",
+   "Taal": "F"
+ },
+ {
+   "Code": "25124",
+   "Commune": "Walhain",
+   "Gemeente": "Walhain",
+   "Taal": "F"
+ },
+ {
+   "Code": "25110",
+   "Commune": "Waterloo",
+   "Gemeente": "Waterloo",
+   "Taal": "F"
+ },
+ {
+   "Code": "25112",
+   "Commune": "Wavre",
+   "Gemeente": "Waver",
+   "Taal": "F"
+ },
+ {
+   "Code": "50000",
+   "Commune": "Province du Hainaut",
+   "Gemeente": "Provincie Henegouwen",
+   "Taal": ""
+ },
+ {
+   "Code": "51000",
+   "Commune": "Arrondissement d'Ath",
+   "Gemeente": "Arrondissement Aat",
+   "Taal": ""
+ },
+ {
+   "Code": "51004",
+   "Commune": "Ath",
+   "Gemeente": "Aat",
+   "Taal": "F"
+ },
+ {
+   "Code": "51008",
+   "Commune": "Beloeil",
+   "Gemeente": "Beloeil",
+   "Taal": "F"
+ },
+ {
+   "Code": "51009",
+   "Commune": "Bernissart",
+   "Gemeente": "Bernissart",
+   "Taal": "F"
+ },
+ {
+   "Code": "51012",
+   "Commune": "Brugelette",
+   "Gemeente": "Brugelette",
+   "Taal": "F"
+ },
+ {
+   "Code": "51014",
+   "Commune": "Chi�vres",
+   "Gemeente": "Chi�vres",
+   "Taal": "F"
+ },
+ {
+   "Code": "51017",
+   "Commune": "Ellezelles",
+   "Gemeente": "Elzele",
+   "Taal": "F"
+ },
+ {
+   "Code": "51067",
+   "Commune": "Enghien",
+   "Gemeente": "Edingen",
+   "Taal": "F"
+ },
+ {
+   "Code": "51019",
+   "Commune": "Flobecq",
+   "Gemeente": "Vloesberg",
+   "Taal": "F"
+ },
+ {
+   "Code": "51065",
+   "Commune": "Frasnes-lez-Anvaing",
+   "Gemeente": "Frasnes-lez-Anvaing",
+   "Taal": "F"
+ },
+ {
+   "Code": "51069",
+   "Commune": "Lessines",
+   "Gemeente": "Lessen",
+   "Taal": "F"
+ },
+ {
+   "Code": "51068",
+   "Commune": "Silly",
+   "Gemeente": "Opzullik",
+   "Taal": "F"
+ },
+ {
+   "Code": "52000",
+   "Commune": "Arrondissement de Charleroi",
+   "Gemeente": "Arrondissement Charleroi",
+   "Taal": ""
+ },
+ {
+   "Code": "52074",
+   "Commune": "Aiseau-Presles",
+   "Gemeente": "Aiseau-Presles",
+   "Taal": "F"
+ },
+ {
+   "Code": "52010",
+   "Commune": "Chapelle-lez-Herlaimont",
+   "Gemeente": "Chapelle-lez-Herlaimont",
+   "Taal": "F"
+ },
+ {
+   "Code": "52011",
+   "Commune": "Charleroi",
+   "Gemeente": "Charleroi",
+   "Taal": "F"
+ },
+ {
+   "Code": "52012",
+   "Commune": "Ch�telet",
+   "Gemeente": "Ch�telet",
+   "Taal": "F"
+ },
+ {
+   "Code": "52015",
+   "Commune": "Courcelles",
+   "Gemeente": "Courcelles",
+   "Taal": "F"
+ },
+ {
+   "Code": "52018",
+   "Commune": "Farciennes",
+   "Gemeente": "Farciennes",
+   "Taal": "F"
+ },
+ {
+   "Code": "52021",
+   "Commune": "Fleurus",
+   "Gemeente": "Fleurus",
+   "Taal": "F"
+ },
+ {
+   "Code": "52022",
+   "Commune": "Fontaine-l'Ev�que",
+   "Gemeente": "Fontaine-l'Ev�que",
+   "Taal": "F"
+ },
+ {
+   "Code": "52025",
+   "Commune": "Gerpinnes",
+   "Gemeente": "Gerpinnes",
+   "Taal": "F"
+ },
+ {
+   "Code": "52075",
+   "Commune": "Les Bons Villers",
+   "Gemeente": "Les Bons Villers",
+   "Taal": "F"
+ },
+ {
+   "Code": "52048",
+   "Commune": "Montigny-le-Tilleul",
+   "Gemeente": "Montigny-le-Tilleul",
+   "Taal": "F"
+ },
+ {
+   "Code": "52055",
+   "Commune": "Pont-�-celles",
+   "Gemeente": "Pont-�-celles",
+   "Taal": "F"
+ },
+ {
+   "Code": "53000",
+   "Commune": "Arrondissement de Mons",
+   "Gemeente": "Arrondissement Bergen",
+   "Taal": ""
+ },
+ {
+   "Code": "53014",
+   "Commune": "Boussu",
+   "Gemeente": "Boussu",
+   "Taal": "F"
+ },
+ {
+   "Code": "53082",
+   "Commune": "Colfontaine",
+   "Gemeente": "Colfontaine",
+   "Taal": "F"
+ },
+ {
+   "Code": "53020",
+   "Commune": "Dour",
+   "Gemeente": "Dour",
+   "Taal": "F"
+ },
+ {
+   "Code": "53028",
+   "Commune": "Frameries",
+   "Gemeente": "Frameries",
+   "Taal": "F"
+ },
+ {
+   "Code": "53039",
+   "Commune": "Hensies",
+   "Gemeente": "Hensies",
+   "Taal": "F"
+ },
+ {
+   "Code": "53083",
+   "Commune": "Honnelles",
+   "Gemeente": "Honnelles",
+   "Taal": "F"
+ },
+ {
+   "Code": "53044",
+   "Commune": "Jurbise",
+   "Gemeente": "Jurbeke",
+   "Taal": "F"
+ },
+ {
+   "Code": "53046",
+   "Commune": "Lens",
+   "Gemeente": "Lens",
+   "Taal": "F"
+ },
+ {
+   "Code": "53053",
+   "Commune": "Mons",
+   "Gemeente": "Bergen",
+   "Taal": "F"
+ },
+ {
+   "Code": "53065",
+   "Commune": "Quaregnon",
+   "Gemeente": "Quaregnon",
+   "Taal": "F"
+ },
+ {
+   "Code": "53084",
+   "Commune": "Qu�vy",
+   "Gemeente": "Qu�vy",
+   "Taal": "F"
+ },
+ {
+   "Code": "53068",
+   "Commune": "Qui�vrain",
+   "Gemeente": "Qui�vrain",
+   "Taal": "F"
+ },
+ {
+   "Code": "53070",
+   "Commune": "Saint-Ghislain",
+   "Gemeente": "Saint-Ghislain",
+   "Taal": "F"
+ },
+ {
+   "Code": "55000",
+   "Commune": "Arrondissement de Soignies",
+   "Gemeente": "Arrondissement Zinnik",
+   "Taal": ""
+ },
+ {
+   "Code": "55004",
+   "Commune": "Braine-le-Comte",
+   "Gemeente": "'s Gravenbrakel",
+   "Taal": "F"
+ },
+ {
+   "Code": "55050",
+   "Commune": "Ecaussinnes",
+   "Gemeente": "Ecaussinnes",
+   "Taal": "F"
+ },
+ {
+   "Code": "55035",
+   "Commune": "Le Roeulx",
+   "Gemeente": "Le Roeulx",
+   "Taal": "F"
+ },
+ {
+   "Code": "55086",
+   "Commune": "Manage",
+   "Gemeente": "Manage",
+   "Taal": "F"
+ },
+ {
+   "Code": "55085",
+   "Commune": "Seneffe",
+   "Gemeente": "Seneffe",
+   "Taal": "F"
+ },
+ {
+   "Code": "55040",
+   "Commune": "Soignies",
+   "Gemeente": "Zinnik",
+   "Taal": "F"
+ },
+ {
+   "Code": "56000",
+   "Commune": "Arrondissement de Thuin",
+   "Gemeente": "Arrondissement Thuin",
+   "Taal": ""
+ },
+ {
+   "Code": "56001",
+   "Commune": "Anderlues",
+   "Gemeente": "Anderlues",
+   "Taal": "F"
+ },
+ {
+   "Code": "56005",
+   "Commune": "Beaumont",
+   "Gemeente": "Beaumont",
+   "Taal": "F"
+ },
+ {
+   "Code": "56016",
+   "Commune": "Chimay",
+   "Gemeente": "Chimay",
+   "Taal": "F"
+ },
+ {
+   "Code": "56022",
+   "Commune": "Erquelinnes",
+   "Gemeente": "Erquelinnes",
+   "Taal": "F"
+ },
+ {
+   "Code": "56029",
+   "Commune": "Froidchapelle",
+   "Gemeente": "Froidchapelle",
+   "Taal": "F"
+ },
+ {
+   "Code": "56086",
+   "Commune": "Ham-sur-Heure-Nalinnes",
+   "Gemeente": "Ham-sur-Heure-Nalinnes",
+   "Taal": "F"
+ },
+ {
+   "Code": "56044",
+   "Commune": "Lobbes",
+   "Gemeente": "Lobbes",
+   "Taal": "F"
+ },
+ {
+   "Code": "56049",
+   "Commune": "Merbes-le-Ch�teau",
+   "Gemeente": "Merbes-le-Ch�teau",
+   "Taal": "F"
+ },
+ {
+   "Code": "56051",
+   "Commune": "Momignies",
+   "Gemeente": "Momignies",
+   "Taal": "F"
+ },
+ {
+   "Code": "56088",
+   "Commune": "Sivry-Rance",
+   "Gemeente": "Sivry-Rance",
+   "Taal": "F"
+ },
+ {
+   "Code": "56078",
+   "Commune": "Thuin",
+   "Gemeente": "Thuin",
+   "Taal": "F"
+ },
+ {
+   "Code": "57000",
+   "Commune": "Arrondissement de Tournai-Mouscron",
+   "Gemeente": "Arrondissement Doornik-Moeskroen",
+   "Taal": ""
+ },
+ {
+   "Code": "57003",
+   "Commune": "Antoing",
+   "Gemeente": "Antoing",
+   "Taal": "F"
+ },
+ {
+   "Code": "57093",
+   "Commune": "Brunehaut",
+   "Gemeente": "Brunehaut",
+   "Taal": "F"
+ },
+ {
+   "Code": "57018",
+   "Commune": "Celles",
+   "Gemeente": "Celles",
+   "Taal": "F"
+ },
+ {
+   "Code": "57097",
+   "Commune": "Comines-Warneton",
+   "Gemeente": "Komen-Waasten",
+   "Taal": "F"
+ },
+ {
+   "Code": "57027",
+   "Commune": "Estaimpuis",
+   "Gemeente": "Estaimpuis",
+   "Taal": "F"
+ },
+ {
+   "Code": "57094",
+   "Commune": "Leuze-en-Hainaut",
+   "Gemeente": "Leuze-en-Hainaut",
+   "Taal": "F"
+ },
+ {
+   "Code": "57095",
+   "Commune": "Mont-de-l'Enclus",
+   "Gemeente": "Mont-de-l'Enclus",
+   "Taal": "F"
+ },
+ {
+   "Code": "57096",
+   "Commune": "Mouscron",
+   "Gemeente": "Moeskroen",
+   "Taal": "F"
+ },
+ {
+   "Code": "57062",
+   "Commune": "Pecq",
+   "Gemeente": "Pecq",
+   "Taal": "F"
+ },
+ {
+   "Code": "57064",
+   "Commune": "P�ruwelz",
+   "Gemeente": "P�ruwelz",
+   "Taal": "F"
+ },
+ {
+   "Code": "57072",
+   "Commune": "Rumes",
+   "Gemeente": "Rumes",
+   "Taal": "F"
+ },
+ {
+   "Code": "57081",
+   "Commune": "Tournai",
+   "Gemeente": "Doornik",
+   "Taal": "F"
+ },
+ {
+   "Code": "58000",
+   "Commune": "Arrondissement de La Louvi�re",
+   "Gemeente": "Arrondissement La Louvi�re",
+   "Taal": ""
+ },
+ {
+   "Code": "58001",
+   "Commune": "La Louvi�re",
+   "Gemeente": "La Louvi�re",
+   "Taal": "F"
+ },
+ {
+   "Code": "58002",
+   "Commune": "Binche",
+   "Gemeente": "Binche",
+   "Taal": "F"
+ },
+ {
+   "Code": "58003",
+   "Commune": "Estinnes",
+   "Gemeente": "Estinnes",
+   "Taal": "F"
+ },
+ {
+   "Code": "58004",
+   "Commune": "Morlanwelz",
+   "Gemeente": "Morlanwelz",
+   "Taal": "F"
+ },
+ {
+   "Code": "60000",
+   "Commune": "Province de Li�ge",
+   "Gemeente": "Provincie Luik",
+   "Taal": ""
+ },
+ {
+   "Code": "61000",
+   "Commune": "Arrondissement de Huy",
+   "Gemeente": "Arrondissement Hoei",
+   "Taal": ""
+ },
+ {
+   "Code": "61003",
+   "Commune": "Amay",
+   "Gemeente": "Amay",
+   "Taal": "F"
+ },
+ {
+   "Code": "61079",
+   "Commune": "Anthisnes",
+   "Gemeente": "Anthisnes",
+   "Taal": "F"
+ },
+ {
+   "Code": "61010",
+   "Commune": "Burdinne",
+   "Gemeente": "Burdinne",
+   "Taal": "F"
+ },
+ {
+   "Code": "61012",
+   "Commune": "Clavier",
+   "Gemeente": "Clavier",
+   "Taal": "F"
+ },
+ {
+   "Code": "61080",
+   "Commune": "Engis",
+   "Gemeente": "Engis",
+   "Taal": "F"
+ },
+ {
+   "Code": "61019",
+   "Commune": "Ferri�res",
+   "Gemeente": "Ferri�res",
+   "Taal": "F"
+ },
+ {
+   "Code": "61024",
+   "Commune": "Hamoir",
+   "Gemeente": "Hamoir",
+   "Taal": "F"
+ },
+ {
+   "Code": "61028",
+   "Commune": "H�ron",
+   "Gemeente": "H�ron",
+   "Taal": "F"
+ },
+ {
+   "Code": "61031",
+   "Commune": "Huy",
+   "Gemeente": "Hoei",
+   "Taal": "F"
+ },
+ {
+   "Code": "61039",
+   "Commune": "Marchin",
+   "Gemeente": "Marchin",
+   "Taal": "F"
+ },
+ {
+   "Code": "61041",
+   "Commune": "Modave",
+   "Gemeente": "Modave",
+   "Taal": "F"
+ },
+ {
+   "Code": "61043",
+   "Commune": "Nandrin",
+   "Gemeente": "Nandrin",
+   "Taal": "F"
+ },
+ {
+   "Code": "61048",
+   "Commune": "Ouffet",
+   "Gemeente": "Ouffet",
+   "Taal": "F"
+ },
+ {
+   "Code": "61081",
+   "Commune": "Tinlot",
+   "Gemeente": "Tinlot",
+   "Taal": "F"
+ },
+ {
+   "Code": "61063",
+   "Commune": "Verlaine",
+   "Gemeente": "Verlaine",
+   "Taal": "F"
+ },
+ {
+   "Code": "61068",
+   "Commune": "Villers-le-Bouillet",
+   "Gemeente": "Villers-le-Bouillet",
+   "Taal": "F"
+ },
+ {
+   "Code": "61072",
+   "Commune": "Wanze",
+   "Gemeente": "Wanze",
+   "Taal": "F"
+ },
+ {
+   "Code": "62000",
+   "Commune": "Arrondissement de Li�ge",
+   "Gemeente": "Arrondissement Luik",
+   "Taal": ""
+ },
+ {
+   "Code": "62003",
+   "Commune": "Ans",
+   "Gemeente": "Ans",
+   "Taal": "F"
+ },
+ {
+   "Code": "62006",
+   "Commune": "Awans",
+   "Gemeente": "Awans",
+   "Taal": "F"
+ },
+ {
+   "Code": "62009",
+   "Commune": "Aywaille",
+   "Gemeente": "Aywaille",
+   "Taal": "F"
+ },
+ {
+   "Code": "62011",
+   "Commune": "Bassenge",
+   "Gemeente": "Bitsingen",
+   "Taal": "F"
+ },
+ {
+   "Code": "62015",
+   "Commune": "Beyne-Heusay",
+   "Gemeente": "Beyne-Heusay",
+   "Taal": "F"
+ },
+ {
+   "Code": "62119",
+   "Commune": "Bl�gny",
+   "Gemeente": "Bl�gny",
+   "Taal": "F"
+ },
+ {
+   "Code": "62022",
+   "Commune": "Chaudfontaine",
+   "Gemeente": "Chaudfontaine",
+   "Taal": "F"
+ },
+ {
+   "Code": "62026",
+   "Commune": "Comblain-au-Pont",
+   "Gemeente": "Comblain-au-Pont",
+   "Taal": "F"
+ },
+ {
+   "Code": "62027",
+   "Commune": "Dalhem",
+   "Gemeente": "Dalhem",
+   "Taal": "F"
+ },
+ {
+   "Code": "62032",
+   "Commune": "Esneux",
+   "Gemeente": "Esneux",
+   "Taal": "F"
+ },
+ {
+   "Code": "62120",
+   "Commune": "Fl�malle",
+   "Gemeente": "Fl�malle",
+   "Taal": "F"
+ },
+ {
+   "Code": "62038",
+   "Commune": "Fl�ron",
+   "Gemeente": "Fl�ron",
+   "Taal": "F"
+ },
+ {
+   "Code": "62118",
+   "Commune": "Gr�ce-Hollogne",
+   "Gemeente": "Gr�ce-Hollogne",
+   "Taal": "F"
+ },
+ {
+   "Code": "62051",
+   "Commune": "Herstal",
+   "Gemeente": "Herstal",
+   "Taal": "F"
+ },
+ {
+   "Code": "62060",
+   "Commune": "Juprelle",
+   "Gemeente": "Juprelle",
+   "Taal": "F"
+ },
+ {
+   "Code": "62063",
+   "Commune": "Li�ge",
+   "Gemeente": "Luik",
+   "Taal": "F"
+ },
+ {
+   "Code": "62121",
+   "Commune": "Neupr�",
+   "Gemeente": "Neupr�",
+   "Taal": "F"
+ },
+ {
+   "Code": "62079",
+   "Commune": "Oupeye",
+   "Gemeente": "Oupeye",
+   "Taal": "F"
+ },
+ {
+   "Code": "62093",
+   "Commune": "Saint-Nicolas",
+   "Gemeente": "Saint-Nicolas",
+   "Taal": "F"
+ },
+ {
+   "Code": "62096",
+   "Commune": "Seraing",
+   "Gemeente": "Seraing",
+   "Taal": "F"
+ },
+ {
+   "Code": "62099",
+   "Commune": "Soumagne",
+   "Gemeente": "Soumagne",
+   "Taal": "F"
+ },
+ {
+   "Code": "62100",
+   "Commune": "Sprimont",
+   "Gemeente": "Sprimont",
+   "Taal": "F"
+ },
+ {
+   "Code": "62122",
+   "Commune": "Trooz",
+   "Gemeente": "Trooz",
+   "Taal": "F"
+ },
+ {
+   "Code": "62108",
+   "Commune": "Vis�",
+   "Gemeente": "Wezet",
+   "Taal": "F"
+ },
+ {
+   "Code": "63000",
+   "Commune": "Arrondissement de Verviers",
+   "Gemeente": "Arrondissement Verviers",
+   "Taal": ""
+ },
+ {
+   "Code": "63001",
+   "Commune": "Ambl�ve",
+   "Gemeente": "Amel",
+   "Taal": "D"
+ },
+ {
+   "Code": "63003",
+   "Commune": "Aubel",
+   "Gemeente": "Aubel",
+   "Taal": "F"
+ },
+ {
+   "Code": "63004",
+   "Commune": "Baelen",
+   "Gemeente": "Baelen",
+   "Taal": "F"
+ },
+ {
+   "Code": "63012",
+   "Commune": "Bullange",
+   "Gemeente": "B�llingen",
+   "Taal": "D"
+ },
+ {
+   "Code": "63087",
+   "Commune": "Burg-Reuland",
+   "Gemeente": "Burg-Reuland",
+   "Taal": "D"
+ },
+ {
+   "Code": "63013",
+   "Commune": "Butgenbach",
+   "Gemeente": "B�tgenbach",
+   "Taal": "D"
+ },
+ {
+   "Code": "63020",
+   "Commune": "Dison",
+   "Gemeente": "Dison",
+   "Taal": "F"
+ },
+ {
+   "Code": "63023",
+   "Commune": "Eupen",
+   "Gemeente": "Eupen",
+   "Taal": "D"
+ },
+ {
+   "Code": "63035",
+   "Commune": "Herve",
+   "Gemeente": "Herve",
+   "Taal": "F"
+ },
+ {
+   "Code": "63038",
+   "Commune": "Jalhay",
+   "Gemeente": "Jalhay",
+   "Taal": "F"
+ },
+ {
+   "Code": "63040",
+   "Commune": "La Calamine",
+   "Gemeente": "Kelmis",
+   "Taal": "D"
+ },
+ {
+   "Code": "63045",
+   "Commune": "Lierneux",
+   "Gemeente": "Lierneux",
+   "Taal": "F"
+ },
+ {
+   "Code": "63046",
+   "Commune": "Limbourg",
+   "Gemeente": "Limburg",
+   "Taal": "F"
+ },
+ {
+   "Code": "63048",
+   "Commune": "Lontzen",
+   "Gemeente": "Lontzen",
+   "Taal": "D"
+ },
+ {
+   "Code": "63049",
+   "Commune": "Malmedy",
+   "Gemeente": "Malmedy",
+   "Taal": "F"
+ },
+ {
+   "Code": "63057",
+   "Commune": "Olne",
+   "Gemeente": "Olne",
+   "Taal": "F"
+ },
+ {
+   "Code": "63058",
+   "Commune": "Pepinster",
+   "Gemeente": "Pepinster",
+   "Taal": "F"
+ },
+ {
+   "Code": "63088",
+   "Commune": "Plombi�res",
+   "Gemeente": "Plombi�res",
+   "Taal": "F"
+ },
+ {
+   "Code": "63061",
+   "Commune": "Raeren",
+   "Gemeente": "Raeren",
+   "Taal": "D"
+ },
+ {
+   "Code": "63067",
+   "Commune": "Saint-Vith",
+   "Gemeente": "Sankt Vith",
+   "Taal": "D"
+ },
+ {
+   "Code": "63072",
+   "Commune": "Spa",
+   "Gemeente": "Spa",
+   "Taal": "F"
+ },
+ {
+   "Code": "63073",
+   "Commune": "Stavelot",
+   "Gemeente": "Stavelot",
+   "Taal": "F"
+ },
+ {
+   "Code": "63075",
+   "Commune": "Stoumont",
+   "Gemeente": "Stoumont",
+   "Taal": "F"
+ },
+ {
+   "Code": "63076",
+   "Commune": "Theux",
+   "Gemeente": "Theux",
+   "Taal": "F"
+ },
+ {
+   "Code": "63089",
+   "Commune": "Thimister-Clermont",
+   "Gemeente": "Thimister-Clermont",
+   "Taal": "F"
+ },
+ {
+   "Code": "63086",
+   "Commune": "Trois-Ponts",
+   "Gemeente": "Trois-Ponts",
+   "Taal": "F"
+ },
+ {
+   "Code": "63079",
+   "Commune": "Verviers",
+   "Gemeente": "Verviers",
+   "Taal": "F"
+ },
+ {
+   "Code": "63080",
+   "Commune": "Waimes",
+   "Gemeente": "Weismes",
+   "Taal": "F"
+ },
+ {
+   "Code": "63084",
+   "Commune": "Welkenraedt",
+   "Gemeente": "Welkenraedt",
+   "Taal": "F"
+ },
+ {
+   "Code": "64000",
+   "Commune": "Arrondissement de Waremme",
+   "Gemeente": "Arrondissement Borgworm",
+   "Taal": ""
+ },
+ {
+   "Code": "64008",
+   "Commune": "Berloz",
+   "Gemeente": "Berloz",
+   "Taal": "F"
+ },
+ {
+   "Code": "64015",
+   "Commune": "Braives",
+   "Gemeente": "Braives",
+   "Taal": "F"
+ },
+ {
+   "Code": "64021",
+   "Commune": "Crisn�e",
+   "Gemeente": "Crisn�e",
+   "Taal": "F"
+ },
+ {
+   "Code": "64023",
+   "Commune": "Donceel",
+   "Gemeente": "Donceel",
+   "Taal": "F"
+ },
+ {
+   "Code": "64076",
+   "Commune": "Faimes",
+   "Gemeente": "Faimes",
+   "Taal": "F"
+ },
+ {
+   "Code": "64025",
+   "Commune": "Fexhe-le-Haut-Clocher",
+   "Gemeente": "Fexhe-le-Haut-Clocher",
+   "Taal": "F"
+ },
+ {
+   "Code": "64029",
+   "Commune": "Geer",
+   "Gemeente": "Geer",
+   "Taal": "F"
+ },
+ {
+   "Code": "64034",
+   "Commune": "Hannut",
+   "Gemeente": "Hannuit",
+   "Taal": "F"
+ },
+ {
+   "Code": "64047",
+   "Commune": "Lincent",
+   "Gemeente": "Lijsem",
+   "Taal": "F"
+ },
+ {
+   "Code": "64056",
+   "Commune": "Oreye",
+   "Gemeente": "Oerle",
+   "Taal": "F"
+ },
+ {
+   "Code": "64063",
+   "Commune": "Remicourt",
+   "Gemeente": "Remicourt",
+   "Taal": "F"
+ },
+ {
+   "Code": "64065",
+   "Commune": "Saint-Georges-sur-Meuse",
+   "Gemeente": "Saint-Georges-sur-Meuse",
+   "Taal": "F"
+ },
+ {
+   "Code": "64074",
+   "Commune": "Waremme",
+   "Gemeente": "Borgworm",
+   "Taal": "F"
+ },
+ {
+   "Code": "64075",
+   "Commune": "Wasseiges",
+   "Gemeente": "Wasseiges",
+   "Taal": "F"
+ },
+ {
+   "Code": "80000",
+   "Commune": "Province du Luxembourg",
+   "Gemeente": "Provincie Luxemburg",
+   "Taal": ""
+ },
+ {
+   "Code": "81000",
+   "Commune": "Arrondissement d'Arlon",
+   "Gemeente": "Arrondissement Aarlen",
+   "Taal": ""
+ },
+ {
+   "Code": "81001",
+   "Commune": "Arlon",
+   "Gemeente": "Aarlen",
+   "Taal": "F"
+ },
+ {
+   "Code": "81003",
+   "Commune": "Attert",
+   "Gemeente": "Attert",
+   "Taal": "F"
+ },
+ {
+   "Code": "81004",
+   "Commune": "Aubange",
+   "Gemeente": "Aubange",
+   "Taal": "F"
+ },
+ {
+   "Code": "81013",
+   "Commune": "Martelange",
+   "Gemeente": "Martelange",
+   "Taal": "F"
+ },
+ {
+   "Code": "81015",
+   "Commune": "Messancy",
+   "Gemeente": "Messancy",
+   "Taal": "F"
+ },
+ {
+   "Code": "82000",
+   "Commune": "Arrondissement de Bastogne",
+   "Gemeente": "Arrondissement Bastenaken",
+   "Taal": ""
+ },
+ {
+   "Code": "82003",
+   "Commune": "Bastogne",
+   "Gemeente": "Bastenaken",
+   "Taal": "F"
+ },
+ {
+   "Code": "82005",
+   "Commune": "Bertogne",
+   "Gemeente": "Bertogne",
+   "Taal": "F"
+ },
+ {
+   "Code": "82009",
+   "Commune": "Fauvillers",
+   "Gemeente": "Fauvillers",
+   "Taal": "F"
+ },
+ {
+   "Code": "82037",
+   "Commune": "Gouvy",
+   "Gemeente": "Gouvy",
+   "Taal": "F"
+ },
+ {
+   "Code": "82014",
+   "Commune": "Houffalize",
+   "Gemeente": "Houffalize",
+   "Taal": "F"
+ },
+ {
+   "Code": "82038",
+   "Commune": "Sainte-Ode",
+   "Gemeente": "Sainte-Ode",
+   "Taal": "F"
+ },
+ {
+   "Code": "82036",
+   "Commune": "Vaux-sur-S�re",
+   "Gemeente": "Vaux-sur-S�re",
+   "Taal": "F"
+ },
+ {
+   "Code": "82032",
+   "Commune": "Vielsalm",
+   "Gemeente": "Vielsalm",
+   "Taal": "F"
+ },
+ {
+   "Code": "83000",
+   "Commune": "Arrondissement de Marche-en-Famenne",
+   "Gemeente": "Arrondissement Marche-en-Famenne",
+   "Taal": ""
+ },
+ {
+   "Code": "83012",
+   "Commune": "Durbuy",
+   "Gemeente": "Durbuy",
+   "Taal": "F"
+ },
+ {
+   "Code": "83013",
+   "Commune": "Erez�e",
+   "Gemeente": "Erez�e",
+   "Taal": "F"
+ },
+ {
+   "Code": "83028",
+   "Commune": "Hotton",
+   "Gemeente": "Hotton",
+   "Taal": "F"
+ },
+ {
+   "Code": "83031",
+   "Commune": "La Roche-en-Ardenne",
+   "Gemeente": "La Roche-en-Ardenne",
+   "Taal": "F"
+ },
+ {
+   "Code": "83055",
+   "Commune": "Manhay",
+   "Gemeente": "Manhay",
+   "Taal": "F"
+ },
+ {
+   "Code": "83034",
+   "Commune": "Marche-en-Famenne",
+   "Gemeente": "Marche-en-Famenne",
+   "Taal": "F"
+ },
+ {
+   "Code": "83040",
+   "Commune": "Nassogne",
+   "Gemeente": "Nassogne",
+   "Taal": "F"
+ },
+ {
+   "Code": "83044",
+   "Commune": "Rendeux",
+   "Gemeente": "Rendeux",
+   "Taal": "F"
+ },
+ {
+   "Code": "83049",
+   "Commune": "Tenneville",
+   "Gemeente": "Tenneville",
+   "Taal": "F"
+ },
+ {
+   "Code": "84000",
+   "Commune": "Arrondissement de Neufch�teau",
+   "Gemeente": "Arrondissement Neufch�teau",
+   "Taal": ""
+ },
+ {
+   "Code": "84009",
+   "Commune": "Bertrix",
+   "Gemeente": "Bertrix",
+   "Taal": "F"
+ },
+ {
+   "Code": "84010",
+   "Commune": "Bouillon",
+   "Gemeente": "Bouillon",
+   "Taal": "F"
+ },
+ {
+   "Code": "84016",
+   "Commune": "Daverdisse",
+   "Gemeente": "Daverdisse",
+   "Taal": "F"
+ },
+ {
+   "Code": "84029",
+   "Commune": "Herbeumont",
+   "Gemeente": "Herbeumont",
+   "Taal": "F"
+ },
+ {
+   "Code": "84033",
+   "Commune": "L�glise",
+   "Gemeente": "L�glise",
+   "Taal": "F"
+ },
+ {
+   "Code": "84035",
+   "Commune": "Libin",
+   "Gemeente": "Libin",
+   "Taal": "F"
+ },
+ {
+   "Code": "84077",
+   "Commune": "Libramont-Chevigny",
+   "Gemeente": "Libramont-Chevigny",
+   "Taal": "F"
+ },
+ {
+   "Code": "84043",
+   "Commune": "Neufch�teau",
+   "Gemeente": "Neufch�teau",
+   "Taal": "F"
+ },
+ {
+   "Code": "84050",
+   "Commune": "Paliseul",
+   "Gemeente": "Paliseul",
+   "Taal": "F"
+ },
+ {
+   "Code": "84059",
+   "Commune": "Saint-Hubert",
+   "Gemeente": "Saint-Hubert",
+   "Taal": "F"
+ },
+ {
+   "Code": "84068",
+   "Commune": "Tellin",
+   "Gemeente": "Tellin",
+   "Taal": "F"
+ },
+ {
+   "Code": "84075",
+   "Commune": "Wellin",
+   "Gemeente": "Wellin",
+   "Taal": "F"
+ },
+ {
+   "Code": "85000",
+   "Commune": "Arrondissement de Virton",
+   "Gemeente": "Arrondissement Virton",
+   "Taal": ""
+ },
+ {
+   "Code": "85007",
+   "Commune": "Chiny",
+   "Gemeente": "Chiny",
+   "Taal": "F"
+ },
+ {
+   "Code": "85009",
+   "Commune": "Etalle",
+   "Gemeente": "Etalle",
+   "Taal": "F"
+ },
+ {
+   "Code": "85011",
+   "Commune": "Florenville",
+   "Gemeente": "Florenville",
+   "Taal": "F"
+ },
+ {
+   "Code": "85046",
+   "Commune": "Habay",
+   "Gemeente": "Habay",
+   "Taal": "F"
+ },
+ {
+   "Code": "85024",
+   "Commune": "Meix-devant-Virton",
+   "Gemeente": "Meix-devant-Virton",
+   "Taal": "F"
+ },
+ {
+   "Code": "85026",
+   "Commune": "Musson",
+   "Gemeente": "Musson",
+   "Taal": "F"
+ },
+ {
+   "Code": "85047",
+   "Commune": "Rouvroy",
+   "Gemeente": "Rouvroy",
+   "Taal": "F"
+ },
+ {
+   "Code": "85034",
+   "Commune": "Saint-L�ger",
+   "Gemeente": "Saint-L�ger",
+   "Taal": "F"
+ },
+ {
+   "Code": "85039",
+   "Commune": "Tintigny",
+   "Gemeente": "Tintigny",
+   "Taal": "F"
+ },
+ {
+   "Code": "85045",
+   "Commune": "Virton",
+   "Gemeente": "Virton",
+   "Taal": "F"
+ },
+ {
+   "Code": "90000",
+   "Commune": "Province de Namur",
+   "Gemeente": "Provincie Namen",
+   "Taal": ""
+ },
+ {
+   "Code": "91000",
+   "Commune": "Arrondissement de Dinant",
+   "Gemeente": "Arrondissement Dinant",
+   "Taal": ""
+ },
+ {
+   "Code": "91005",
+   "Commune": "Anh�e",
+   "Gemeente": "Anh�e",
+   "Taal": "F"
+ },
+ {
+   "Code": "91013",
+   "Commune": "Beauraing",
+   "Gemeente": "Beauraing",
+   "Taal": "F"
+ },
+ {
+   "Code": "91015",
+   "Commune": "Bi�vre",
+   "Gemeente": "Bi�vre",
+   "Taal": "F"
+ },
+ {
+   "Code": "91030",
+   "Commune": "Ciney",
+   "Gemeente": "Ciney",
+   "Taal": "F"
+ },
+ {
+   "Code": "91034",
+   "Commune": "Dinant",
+   "Gemeente": "Dinant",
+   "Taal": "F"
+ },
+ {
+   "Code": "91054",
+   "Commune": "Gedinne",
+   "Gemeente": "Gedinne",
+   "Taal": "F"
+ },
+ {
+   "Code": "91059",
+   "Commune": "Hamois",
+   "Gemeente": "Hamois",
+   "Taal": "F"
+ },
+ {
+   "Code": "91142",
+   "Commune": "Hasti�re",
+   "Gemeente": "Hasti�re",
+   "Taal": "F"
+ },
+ {
+   "Code": "91064",
+   "Commune": "Havelange",
+   "Gemeente": "Havelange",
+   "Taal": "F"
+ },
+ {
+   "Code": "91072",
+   "Commune": "Houyet",
+   "Gemeente": "Houyet",
+   "Taal": "F"
+ },
+ {
+   "Code": "91103",
+   "Commune": "Onhaye",
+   "Gemeente": "Onhaye",
+   "Taal": "F"
+ },
+ {
+   "Code": "91114",
+   "Commune": "Rochefort",
+   "Gemeente": "Rochefort",
+   "Taal": "F"
+ },
+ {
+   "Code": "91120",
+   "Commune": "Somme-Leuze",
+   "Gemeente": "Somme-Leuze",
+   "Taal": "F"
+ },
+ {
+   "Code": "91143",
+   "Commune": "Vresse-sur-Semois",
+   "Gemeente": "Vresse-sur-Semois",
+   "Taal": "F"
+ },
+ {
+   "Code": "91141",
+   "Commune": "Yvoir",
+   "Gemeente": "Yvoir",
+   "Taal": "F"
+ },
+ {
+   "Code": "92000",
+   "Commune": "Arrondissement de Namur",
+   "Gemeente": "Arrondissement Namen",
+   "Taal": ""
+ },
+ {
+   "Code": "92003",
+   "Commune": "Andenne",
+   "Gemeente": "Andenne",
+   "Taal": "F"
+ },
+ {
+   "Code": "92006",
+   "Commune": "Assesse",
+   "Gemeente": "Assesse",
+   "Taal": "F"
+ },
+ {
+   "Code": "92035",
+   "Commune": "Eghez�e",
+   "Gemeente": "Eghez�e",
+   "Taal": "F"
+ },
+ {
+   "Code": "92138",
+   "Commune": "Fernelmont",
+   "Gemeente": "Fernelmont",
+   "Taal": "F"
+ },
+ {
+   "Code": "92045",
+   "Commune": "Floreffe",
+   "Gemeente": "Floreffe",
+   "Taal": "F"
+ },
+ {
+   "Code": "92048",
+   "Commune": "Fosses-la-Ville",
+   "Gemeente": "Fosses-la-Ville",
+   "Taal": "F"
+ },
+ {
+   "Code": "92142",
+   "Commune": "Gembloux",
+   "Gemeente": "Gembloux",
+   "Taal": "F"
+ },
+ {
+   "Code": "92054",
+   "Commune": "Gesves",
+   "Gemeente": "Gesves",
+   "Taal": "F"
+ },
+ {
+   "Code": "92140",
+   "Commune": "Jemeppe-sur-Sambre",
+   "Gemeente": "Jemeppe-sur-Sambre",
+   "Taal": "F"
+ },
+ {
+   "Code": "92141",
+   "Commune": "La Bruy�re",
+   "Gemeente": "La Bruy�re",
+   "Taal": "F"
+ },
+ {
+   "Code": "92087",
+   "Commune": "Mettet",
+   "Gemeente": "Mettet",
+   "Taal": "F"
+ },
+ {
+   "Code": "92094",
+   "Commune": "Namur",
+   "Gemeente": "Namen",
+   "Taal": "F"
+ },
+ {
+   "Code": "92097",
+   "Commune": "Ohey",
+   "Gemeente": "Ohey",
+   "Taal": "F"
+ },
+ {
+   "Code": "92101",
+   "Commune": "Profondeville",
+   "Gemeente": "Profondeville",
+   "Taal": "F"
+ },
+ {
+   "Code": "92137",
+   "Commune": "Sambreville",
+   "Gemeente": "Sambreville",
+   "Taal": "F"
+ },
+ {
+   "Code": "92114",
+   "Commune": "Sombreffe",
+   "Gemeente": "Sombreffe",
+   "Taal": "F"
+ },
+ {
+   "Code": "93000",
+   "Commune": "Arrondissement de Philippeville",
+   "Gemeente": "Arrondissement Philippeville",
+   "Taal": ""
+ },
+ {
+   "Code": "93010",
+   "Commune": "Cerfontaine",
+   "Gemeente": "Cerfontaine",
+   "Taal": "F"
+ },
+ {
+   "Code": "93014",
+   "Commune": "Couvin",
+   "Gemeente": "Couvin",
+   "Taal": "F"
+ },
+ {
+   "Code": "93018",
+   "Commune": "Doische",
+   "Gemeente": "Doische",
+   "Taal": "F"
+ },
+ {
+   "Code": "93022",
+   "Commune": "Florennes",
+   "Gemeente": "Florennes",
+   "Taal": "F"
+ },
+ {
+   "Code": "93056",
+   "Commune": "Philippeville",
+   "Gemeente": "Philippeville",
+   "Taal": "F"
+ },
+ {
+   "Code": "93090",
+   "Commune": "Viroinval",
+   "Gemeente": "Viroinval",
+   "Taal": "F"
+ },
+ {
+   "Code": "93088",
+   "Commune": "Walcourt",
+   "Gemeente": "Walcourt",
+   "Taal": "F"
+ }
+]
